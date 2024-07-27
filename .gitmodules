@@ -1,0 +1,3 @@
+[submodule "vendor/mainecoon"]
+	path = vendor/mainecoon
+	url = https://github.com/tabdroid-1/MaineCoon.git
